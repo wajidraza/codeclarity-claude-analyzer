@@ -1,0 +1,7 @@
+{
+  "name": "codeclarity-claude-analyzer",
+  "version": "1.0.0",
+  "description": "Automated code intelligence tool that traverses Abstract Syntax Trees (ASTs) to detect security vulnerabilities, code smells, and performance bottlenecks.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
